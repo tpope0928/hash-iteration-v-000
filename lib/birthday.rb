@@ -4,8 +4,6 @@
 #   "Amanda" => 27
 # }
 
-def happy_birthday(birthday_kids)
-  
-end
+
 
 
